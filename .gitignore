@@ -1,0 +1,8 @@
+venv/
+dados/bronze/
+dados/silver/
+dados/gold/
+db/
+__pycache__/
+*.pyc
+.DS_Store
