@@ -33,3 +33,4 @@ con.execute("""COPY (
     GROUP BY 1
     ORDER BY 1
 ) TO 'dados/gold/viagens_por_hora.parquet' (FORMAT PARQUET) """)
+
